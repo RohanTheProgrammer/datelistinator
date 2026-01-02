@@ -1,4 +1,8 @@
 # Datelistinator 🗓️
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/RohanTheProgrammer/datelistinator)
+![Last Commit](https://img.shields.io/github/last-commit/RohanTheProgrammer/datelistinator)
 
 Datelistinator is a simple and flexible **CLI tool written in Python** that generates a list of dates between two given dates in a user-defined format.
 
@@ -25,7 +29,7 @@ It is designed as a **helper tool for authorized security testing**, such as cre
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/datelistinator.git
+git clone https://github.com/RohanTheProgrammer/datelistinator.git
 cd datelistinator
 ```
 
@@ -118,10 +122,4 @@ This tool is intended for:
 
 **Rohan**\
 Self-taught cybersecurity student\
-GitHub: `@rohanhax`
-
----
-
-## License
-
-This project is released for educational purposes.
+GitHub: [RohanTheProgrammer](https://github.com/RohanTheProgrammer)
